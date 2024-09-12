@@ -3,3 +3,10 @@ Creating an Artificial Neural Network that is trained to recognize handwritten d
 
 FILE LIBRARY:
 
+ANN_1: First ANN created with one hidden layer containing 30 neurons. Trains using 30 sets and ReLU function. 
+ANN_1_outputs: Outputs of ANN_1. Plots showing accuracy, loss, and missclassification frequency of the network.
+
+ANN_2: Bigger network than ANN_1. Two hidden layers with 50 neurons each. Trains on 50 sets of digits. ReLU function. 
+ANN_2_outputs: Same output analysis as done for ANN_1
+
+
