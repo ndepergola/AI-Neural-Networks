@@ -1,7 +1,7 @@
 # AI-Neural-Networks
 Creating an Artificial Neural Network that is trained to recognize handwritten digits. The network is trained using the MNIST dataset of handwritten digits. The programs will test the effectiveness/accuracy of identifying a new set of handwritten digits. There are various types of network sizes, training algorithms, and analysis techniques used. 
 
-NOTE: All programs were originally created/compiled in Jupyter Notebooks Python 3.
+NOTE: All programs were originally created/compiled in Jupyter Notebooks Python 3. This project was completed for a class - mind the casual tone of the final report.
 
 FILE LIBRARY:
 
@@ -14,4 +14,6 @@ ANN_50trials: (ipynb) Creates 50 neural networks for each activation function, R
 avg_incorrect_relu: Output of ANN_50trials for ReLU. 
 
 avg_incorrect_sigmoid: Output of ANN_50trials for Sigmoid.
+
+NeuralNetworks_report: (pdf) Final writeup of work. 
 
